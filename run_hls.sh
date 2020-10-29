@@ -1,1 +1,1 @@
- vivado_hls -f ReservationStation.tcl -tclargs ./source
+ vivado_hls -f CPU.tcl -tclargs ./source
